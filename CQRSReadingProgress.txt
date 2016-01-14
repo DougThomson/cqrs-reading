@@ -12,4 +12,7 @@
 87 12/01/2016
 88 13/01/2016
 91 13/01/2016
-9 14/01/2016
+100 14/01/2016
+***To get it running locally using SQL see Appendix 1 "Release Notes"
+1 14/01/2016
+
